@@ -1,5 +1,5 @@
 # Projects
-Welcome to my Projects Page! These are my projects that I have worked on or are working on
+Welcome to my Projects Page! These are all my projects that I have worked on
 
 # Python
 | Project | Area | Description | Libraries |
