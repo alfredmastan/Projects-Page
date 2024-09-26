@@ -1,5 +1,5 @@
-# Portfolio
-Welcome to my portfolio! These are my projects that I have worked on or are working on
+# Projects
+Welcome to my Projects Page! These are my projects that I have worked on or are working on
 
 # Python
 | Project | Area | Description | Libraries |
